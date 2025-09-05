@@ -20,4 +20,12 @@
 </div>
 
 ## 📖 1. Giới thiệu
-Ứng dụng trắc nghiệm trực tuyến là hệ thống cho phép người dùng làm bài kiểm tra qua Internet. Ứng dụng giúp giáo viên tạo đề, quản lý câu hỏi, tự động chấm điểm, và học sinh có thể làm bài mọi lúc, mọi nơi nhanh chóng, tiện lợi.
+Ứng dụng trắc nghiệm trực tuyến là một hệ thống phần mềm cho phép người dùng tham gia làm bài kiểm tra thông qua mạng Internet thay vì trên giấy truyền thống. Hệ thống này giúp:
+
+Giáo viên dễ dàng tạo đề, quản lý ngân hàng câu hỏi và tổ chức kiểm tra.
+
+Học sinh, sinh viên có thể làm bài mọi lúc, mọi nơi chỉ cần có kết nối mạng.
+
+Quá trình chấm điểm được tự động hóa, nhanh chóng và chính xác, giảm thiểu sai sót.
+
+Ứng dụng có thể triển khai cho nhiều mục đích như thi thử, ôn tập, đánh giá năng lực, tuyển dụng… Việc xây dựng ứng dụng trắc nghiệm trực tuyến góp phần hiện đại hóa phương thức dạy và học, đồng thời tiết kiệm thời gian, công sức cho cả người dạy và người học.
