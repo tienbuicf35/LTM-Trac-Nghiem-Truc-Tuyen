@@ -18,3 +18,6 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+
+## 📖 1. Giới thiệu
+Ứng dụng trắc nghiệm trực tuyến là hệ thống cho phép người dùng làm bài kiểm tra qua Internet. Ứng dụng giúp giáo viên tạo đề, quản lý câu hỏi, tự động chấm điểm, và học sinh có thể làm bài mọi lúc, mọi nơi nhanh chóng, tiện lợi.
