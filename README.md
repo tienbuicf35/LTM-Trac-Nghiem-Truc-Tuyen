@@ -20,7 +20,7 @@
 </div>
 
 ## 📖 1. Giới thiệu
-Học phần trang bị cho người học những kiến thức nền tảng của lập trình mạng và các kỹ năng cần thiết để thiết kế và cài đặt các ứng dụng mạng và các chuẩn ở mức ứng dụng dựa trên mô hình Client/Server, có sử dụng các giao tiếp chương trình dựa trên Sockets. Kết thúc học phần, sinh viên có thể viết các chương trình ứng dụng mạng với giao thức tầng ứng dụng tự thiết kế.
+Đề tài “Ứng dụng trắc nghiệm trực tuyến” được xây dựng nhằm hỗ trợ giảng viên tạo đề, quản lý câu hỏi và kết quả; đồng thời giúp sinh viên làm bài kiểm tra mọi lúc, mọi nơi. Hệ thống tự động chấm điểm, hiển thị kết quả ngay, góp phần tiết kiệm thời gian và nâng cao hiệu quả giảng dạy.
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
