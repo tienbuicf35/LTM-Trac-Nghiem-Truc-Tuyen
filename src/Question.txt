@@ -1,0 +1,30 @@
+Thủ đô của Việt Nam là gì?
+Hà Nội
+TP.HCM
+Đà Nẵng
+Hải Phòng
+0
+2 + 2 = ?
+3
+4
+5
+6
+1
+Ngôn ngữ lập trình nào sau đây chạy trên JVM?
+C
+C++
+Java
+Python
+2
+Kết quả của 5 * 6 là?
+30
+35
+25
+20
+0
+Trong mô hình mạng, TCP hoạt động ở tầng nào?
+Tầng mạng
+Tầng vận chuyển
+Tầng ứng dụng
+Tầng liên kết dữ liệu
+1
