@@ -63,6 +63,7 @@
 
 <p align="center">
   <img width="542" height="421" alt="image" src="https://github.com/user-attachments/assets/e3631519-20a4-45e4-bcb4-ec71c91ce74c" />
+  <img width="537" height="430" alt="image" src="https://github.com/user-attachments/assets/a756916f-ef04-4397-8858-62ae72237a92" />
 
 </p>
 <p align="center">
