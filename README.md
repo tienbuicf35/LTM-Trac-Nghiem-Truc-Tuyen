@@ -62,7 +62,8 @@
 ## 🚀 3. Hình ảnh các chức năng
 
 <p align="center">
-  <img src="docs/chat_mess.png" alt="Server UI" width="700"/>
+  <img width="542" height="421" alt="image" src="https://github.com/user-attachments/assets/e3631519-20a4-45e4-bcb4-ec71c91ce74c" />
+
 </p>
 <p align="center">
   <em>Hình 1: Giao diện chat chính của các client</em>
