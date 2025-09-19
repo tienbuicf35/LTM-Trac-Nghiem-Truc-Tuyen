@@ -75,12 +75,17 @@
 </p>
 
 <p align="center">
-  <img src="docs/mess.png" alt="Message Broadcast" width="700"/>
+  <img width="1104" height="741" alt="image" src="https://github.com/user-attachments/assets/18cf761f-8810-47e7-abf1-4257b456be9c" />
 </p>
 <p align="center">
-  <em>Hình 3: Thông báo khi có client rời khỏi nhóm chat</em>
+  <em>Hình 3: Câu hỏi trắc nghiệm</em>
 </p>
-
+<p align="center">
+  <img width="539" height="491" alt="image" src="https://github.com/user-attachments/assets/7dd541b0-15cf-4db3-b87f-8f6b90c9e4b7" />
+</p>
+<p align="center">
+  <em>Hình 4: Kết quả sau khi nộp bài</em>
+</p>
 ---
 
 ## 📝 4. Hướng dẫn cài đặt và sử dụng
