@@ -146,7 +146,7 @@ java Quiz.Client
 2. **Gửi tin nhắn**: Chọn đáp án cho từng câu hỏi và nhấn nút "Câu tiếp theo" hoặc "Nộp bài"
 3. **Nhận tin nhắn**: Kết quả bài thi sẽ hiển thị sau khi nộp bài, bao gồm điểm số và xếp loại
 4. **Lịch sử chat**: Server tự động lưu kết quả bài thi vào file `client_results.txt`
-5. **Ngắt kết nối**: Đóng cửa sổ client hoặc nhấn thoát để ngắt kết nối
+5. **Ngắt kết nối**: Đóng cửa sổ client hoặc nhấn thoát để thoát chương trình
 
 
 ## Thông tin liên hệ  
