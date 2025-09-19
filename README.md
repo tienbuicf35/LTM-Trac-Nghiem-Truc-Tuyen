@@ -59,13 +59,78 @@
 
 ---
 
-## 🚀 3. Ngôn ngữ lập trình sử dụng
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-## 4. Tính năng chính
-- Quản lý danh sách câu hỏi/đáp án.
-- Cho phép nhiều người dùng thi cùng lúc.
-- Tính điểm tự động và gửi kết quả ngay sau khi nộp bài.
-- Lưu trữ kết quả vào file.
-- Giao diện trực quan bằng Swing.
+## 🚀 3. Hình ảnh các chức năng
+
+<p align="center">
+  <img src="docs/chat_mess.png" alt="Server UI" width="700"/>
+</p>
+<p align="center">
+  <em>Hình 1: Giao diện chat chính của các client</em>
+</p>
+
+<p align="center">
+  <img src="docs/mess.png" alt="Client UI" width="500"/>
+</p>
+<p align="center">
+  <em>Hình 2: Giao diện Client chat nhóm</em>
+</p>
+
+<p align="center">
+  <img src="docs/mess.png" alt="Message Broadcast" width="700"/>
+</p>
+<p align="center">
+  <em>Hình 3: Thông báo khi có client rời khỏi nhóm chat</em>
+</p>
 
 ---
+
+## 📝 4. Hướng dẫn cài đặt và sử dụng
+
+### 🔧 Yêu cầu hệ thống
+- **Java Development Kit (JDK)**: Phiên bản 8 trở lên  
+- **Hệ điều hành**: Windows / macOS / Linux  
+- **IDE khuyến nghị**: IntelliJ IDEA, Eclipse, hoặc NetBeans  
+- **Bộ nhớ**: Tối thiểu 512MB RAM  
+
+---
+
+### 📦 Các bước triển khai
+
+#### 🔹 Bước 1: Chuẩn bị môi trường
+1. **Cài đặt JDK** nếu chưa có:  
+   - Kiểm tra bằng lệnh:  
+     ```bash
+     java -version
+     javac -version
+     ```
+   - Nếu chưa có, tải JDK tại [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) hoặc [OpenJDK](https://adoptium.net/).
+
+2. **Tải mã nguồn dự án**:  
+   - Clone repo bằng Git:  
+     ```bash
+     git clone https://github.com/mthanh04/LTM-ChatRoom
+     ```
+   - Hoặc tải file `.zip` và giải nén.
+
+---
+
+#### 🔹 Bước 2: Biên dịch mã nguồn
+Di chuyển đến thư mục `bin` rồi biên dịch:  
+```bash
+cd BOXCHAT/bin
+rmiregistry
+```
+#### 🔹 Bước 3: Chạy file ChatServer.java
+
+#### 🔹 Bước 4: Chạy file ChatClient.java
+- Giao diện chat sẽ hiện ra
+
+## 👤 5. Liên hệ
+**Họ tên**: Trịnh Minh Thành.  
+**Lớp**: CNTT 16-03.  
+**Email**: thanhmeo260604@gmail.com.
+
+© 2025 Faculty of Information Technology, DaiNam University. All rights reserved.
+
+
+
