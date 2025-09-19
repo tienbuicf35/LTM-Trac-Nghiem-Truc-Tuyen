@@ -63,18 +63,15 @@
 
 <p align="center">
   <img width="542" height="421" alt="image" src="https://github.com/user-attachments/assets/e3631519-20a4-45e4-bcb4-ec71c91ce74c" />
+</p>
+<p align="center">
+  <em>Hình 1: Giao diện đăng nhập</em>
+</p>
+<p align="center">
   <img width="537" height="430" alt="image" src="https://github.com/user-attachments/assets/a756916f-ef04-4397-8858-62ae72237a92" />
-
 </p>
 <p align="center">
-  <em>Hình 1,2: Giao diện đăng nhập,đăng ký</em>
-</p>
-
-<p align="center">
-  <img src="docs/mess.png" alt="Client UI" width="500"/>
-</p>
-<p align="center">
-  <em>Hình 2: Giao diện Client chat nhóm</em>
+  <em>Hình 2: Giao diện đăng ký</em>
 </p>
 
 <p align="center">
