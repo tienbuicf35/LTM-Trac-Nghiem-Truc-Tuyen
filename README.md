@@ -67,7 +67,7 @@
 
 </p>
 <p align="center">
-  <em>Hình 1,2: Giao diện chat chính của các client</em>
+  <em>Hình 1,2: Giao diện đăng nhập,đăng ký</em>
 </p>
 
 <p align="center">
