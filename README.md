@@ -116,7 +116,7 @@
 1. **Kiểm tra Java**: Mở terminal/command prompt và chạy:
    ```bash
    java -version
-   javac -version
+   java -version
    ```
    Đảm bảo cả hai lệnh đều hiển thị phiên bản Java 8 trở lên.
 
