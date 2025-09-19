@@ -87,50 +87,73 @@
 ## 📝 4. Hướng dẫn cài đặt và sử dụng
 
 ### 🔧 Yêu cầu hệ thống
-- **Java Development Kit (JDK)**: Phiên bản 8 trở lên  
-- **Hệ điều hành**: Windows / macOS / Linux  
-- **IDE khuyến nghị**: IntelliJ IDEA, Eclipse, hoặc NetBeans  
-- **Bộ nhớ**: Tối thiểu 512MB RAM  
 
----
+- **Java Development Kit (JDK)**: Phiên bản 8 trở lên
+- **Hệ điều hành**: Windows, macOS, hoặc Linux
+- **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, VS Code) hoặc terminal/command prompt
+- **Bộ nhớ**: Tối thiểu 512MB RAM
+- **Dung lượng**: Khoảng 10MB cho mã nguồn và file thực thi
 
-### 📦 Các bước triển khai
+### 📦 Cài đặt và triển khai
 
-#### 🔹 Bước 1: Chuẩn bị môi trường
-1. **Cài đặt JDK** nếu chưa có:  
-   - Kiểm tra bằng lệnh:  
-     ```bash
-     java -version
-     javac -version
-     ```
-   - Nếu chưa có, tải JDK tại [Oracle JDK](https://www.oracle.com/java/technologies/javase-downloads.html) hoặc [OpenJDK](https://adoptium.net/).
+#### Bước 1: Chuẩn bị môi trường
+1. **Kiểm tra Java**: Mở terminal/command prompt và chạy:
+   ```bash
+   java -version
+   javac -version
+   ```
+   Đảm bảo cả hai lệnh đều hiển thị phiên bản Java 8 trở lên.
 
-2. **Tải mã nguồn dự án**:  
-   - Clone repo bằng Git:  
-     ```bash
-     git clone https://github.com/mthanh04/LTM-ChatRoom
-     ```
-   - Hoặc tải file `.zip` và giải nén.
+2. **Tải mã nguồn**: Sao chép thư mục `UngDungChat_TCP` chứa các file:
+   - `Server.java`
+   - `Client.java`
 
----
+#### Bước 2: Biên dịch mã nguồn
+1. **Mở terminal** và điều hướng đến thư mục chứa mã nguồn
+2. **Biên dịch các file Java**:
+   ```bash
+   javac Quiz/*.java
+   ```
+   Hoặc biên dịch từng file riêng lẻ:
+   ```bash
+   javac Quiz/Server.java
+   javac Quiz/Client.java
+   ```
 
-#### 🔹 Bước 2: Biên dịch mã nguồn
-Di chuyển đến thư mục `bin` rồi biên dịch:  
+3. **Kiểm tra kết quả**: Nếu biên dịch thành công, sẽ tạo ra các file `.class` tương ứng.
+
+#### Bước 3: Chạy ứng dụng
+
+**Khởi động Server:**
 ```bash
-cd BOXCHAT/bin
-rmiregistry
+java Quiz.Server
 ```
-#### 🔹 Bước 3: Chạy file ChatServer.java
+- Server sẽ khởi động trên port mặc định (5555)
+- Giao diện server sẽ hiển thị, sẵn sàng nhận kết nối từ client
+- Server sẽ tạo file `client_results.txt` để lưu lịch sử làm bài
 
-#### 🔹 Bước 4: Chạy file ChatClient.java
-- Giao diện chat sẽ hiện ra
+**Khởi động Client:**
+```bash
+java Quiz.Client
+```
+- Mở terminal mới cho mỗi client
+- Nhập tên và mật khẩu người dùng khi được yêu cầu
+- Client sẽ kết nối đến server và hiển thị giao diện chat
 
-## 👤 5. Liên hệ
-**Họ tên**: Trịnh Minh Thành.  
-**Lớp**: CNTT 16-03.  
-**Email**: thanhmeo260604@gmail.com.
+### 🚀 Sử dụng ứng dụng
 
-© 2025 Faculty of Information Technology, DaiNam University. All rights reserved.
+1. **Kết nối**: Client tự động kết nối đến server sau khi nhập tên đăng nhập và mật khẩu
+2. **Gửi tin nhắn**: Chọn đáp án cho từng câu hỏi và nhấn nút "Câu tiếp theo" hoặc "Nộp bài"
+3. **Nhận tin nhắn**: Kết quả bài thi sẽ hiển thị sau khi nộp bài, bao gồm điểm số và xếp loại
+4. **Lịch sử chat**: Server tự động lưu kết quả bài thi vào file `client_results.txt`
+5. **Ngắt kết nối**: Đóng cửa sổ client hoặc nhấn thoát để ngắt kết nối
 
 
+## Thông tin liên hệ  
+Họ tên: Bùi Văn Tiến.  
+Lớp: CNTT 16-03.  
+Email: tienbuicf35@gmail.com.
 
+© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+
+---
