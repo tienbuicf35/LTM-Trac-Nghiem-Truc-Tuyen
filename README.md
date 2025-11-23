@@ -86,7 +86,7 @@
   <em>Hình 4: Kết quả sau khi nộp bài</em>
 </p>
 <p align="center">
- <img width="919" height="525" alt="image" src="https://github.com/user-attachments/assets/3df566c6-f143-4d20-8dfa-b37dd54c8f8a" />
+ <img width="921" height="608" alt="image" src="https://github.com/user-attachments/assets/df7c4c21-0ab5-4e7d-a18e-c09831e59076" />
 </p>
 <p align="center">
   <em>Hình 5: Bảng xếp hạng top 10</em>
