@@ -86,13 +86,13 @@
   <em>Hình 4: Kết quả sau khi nộp bài</em>
 </p>
 <p align="center">
-  <img width="729" height="483" alt="image" src="https://github.com/user-attachments/assets/3a8e8a52-0e90-4837-abaf-797ad5fa2cd8" />
+ <img width="919" height="525" alt="image" src="https://github.com/user-attachments/assets/3df566c6-f143-4d20-8dfa-b37dd54c8f8a" />
 </p>
 <p align="center">
   <em>Hình 5: Bảng xếp hạng top 10</em>
 </p>
 <p align="center">
-  <img width="685" height="709" alt="image" src="https://github.com/user-attachments/assets/455fb706-135c-4b1d-b387-8571b4a56f46" />
+ <img width="1104" height="798" alt="image" src="https://github.com/user-attachments/assets/b3178bad-782e-4fb9-9261-40f4ce7589ae" />
 </p>
 <p align="center">
   <em>Hình 6: Xác minh lại đáp án</em>
