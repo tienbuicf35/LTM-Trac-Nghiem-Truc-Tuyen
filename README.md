@@ -62,13 +62,13 @@
 ## 🚀 3. Hình ảnh các chức năng
 
 <p align="center">
-  <img width="542" height="421" alt="image" src="https://github.com/user-attachments/assets/e3631519-20a4-45e4-bcb4-ec71c91ce74c" />
+   <img width="582" height="489" alt="image" src="https://github.com/user-attachments/assets/ca13692a-4756-4d01-91cb-7b71fde352c2" />
 </p>
 <p align="center">
   <em>Hình 1: Giao diện đăng nhập</em>
 </p>
 <p align="center">
-  <img width="582" height="489" alt="image" src="https://github.com/user-attachments/assets/ca13692a-4756-4d01-91cb-7b71fde352c2" />
+  <img width="579" height="482" alt="image" src="https://github.com/user-attachments/assets/4754b443-a932-44a6-9be9-cf8e35a01c07" />
 </p>
 <p align="center">
   <em>Hình 2: Giao diện đăng ký</em>
