@@ -68,14 +68,13 @@
   <em>Hình 1: Giao diện đăng nhập</em>
 </p>
 <p align="center">
-  <img width="537" height="430" alt="image" src="https://github.com/user-attachments/assets/a756916f-ef04-4397-8858-62ae72237a92" />
+  <img width="582" height="489" alt="image" src="https://github.com/user-attachments/assets/ca13692a-4756-4d01-91cb-7b71fde352c2" />
 </p>
 <p align="center">
   <em>Hình 2: Giao diện đăng ký</em>
 </p>
-
 <p align="center">
-  <img width="1104" height="741" alt="image" src="https://github.com/user-attachments/assets/18cf761f-8810-47e7-abf1-4257b456be9c" />
+  <img width="579" height="482" alt="image" src="https://github.com/user-attachments/assets/4754b443-a932-44a6-9be9-cf8e35a01c07" />
 </p>
 <p align="center">
   <em>Hình 3: Câu hỏi trắc nghiệm</em>
