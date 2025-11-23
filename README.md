@@ -74,7 +74,7 @@
   <em>Hình 2: Giao diện đăng ký</em>
 </p>
 <p align="center">
-  <img width="579" height="482" alt="image" src="https://github.com/user-attachments/assets/4754b443-a932-44a6-9be9-cf8e35a01c07" />
+  <img width="1102" height="798" alt="image" src="https://github.com/user-attachments/assets/7b5d4b87-0f48-4459-abfd-327bc97bc315" />
 </p>
 <p align="center">
   <em>Hình 3: Câu hỏi trắc nghiệm</em>
