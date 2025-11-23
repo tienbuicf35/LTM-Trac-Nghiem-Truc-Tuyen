@@ -80,7 +80,7 @@
   <em>Hình 3: Câu hỏi trắc nghiệm</em>
 </p>
 <p align="center">
-  <img width="539" height="491" alt="image" src="https://github.com/user-attachments/assets/7dd541b0-15cf-4db3-b87f-8f6b90c9e4b7" />
+<img width="603" height="553" alt="image" src="https://github.com/user-attachments/assets/d460fca4-b5e7-4e48-95b5-0550ecafa95b" />
 </p>
 <p align="center">
   <em>Hình 4: Kết quả sau khi nộp bài</em>
