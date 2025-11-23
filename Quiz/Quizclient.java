@@ -1104,7 +1104,7 @@ public class Quizclient extends JFrame {
 
         JLabel titleLabel = new JLabel("BẢNG XẾP HẠNG TOP PLAYERS", SwingConstants.CENTER);
         titleLabel.setFont(new Font("Segoe UI", Font.BOLD, 26));
-        titleLabel.setForeground(new Color(255, 165, 0)); 
+        titleLabel.setForeground(new Color(255, 223, 0)); // SỬA: Đổi màu vàng sáng hơn (DÒNG 959)
         titleLabel.setBorder(BorderFactory.createEmptyBorder(15, 0, 15, 0));
         
         JLabel footerLabel = new JLabel("Xếp hạng dựa trên Điểm số (cao hơn) và Thời gian (ít hơn)", SwingConstants.CENTER);
@@ -1168,8 +1168,8 @@ public class Quizclient extends JFrame {
 
         table.setFont(new Font("Segoe UI", Font.PLAIN, 15));
         table.getTableHeader().setFont(new Font("Segoe UI", Font.BOLD, 15));
-        table.getTableHeader().setBackground(PRIMARY_COLOR.darker()); 
-        table.getTableHeader().setForeground(TEXT_COLOR);
+        table.getTableHeader().setBackground(ACCENT_COLOR.darker()); // SỬA: Đổi màu nền Header (DÒNG 1030)
+        table.getTableHeader().setForeground(Color.BLACK); // THAY TEXT_COLOR (TRẮNG) BẰNG MÀU ĐEN
         table.setRowHeight(35); 
         table.setGridColor(BORDER_COLOR);
         table.setFocusTraversalKeysEnabled(false);
